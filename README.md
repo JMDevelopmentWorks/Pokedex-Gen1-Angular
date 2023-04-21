@@ -15,6 +15,8 @@ This project had the purpose of learning and getting more confortable with routi
 [Live Server]
 
 
+## If you have any tips on how to improve please feel free to message me or connect on LinkedIn!
+
 
 <h3 align="left">Join me on Linkedin: </h3>
 <p align="left">
