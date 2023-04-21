@@ -12,6 +12,7 @@ This project had the purpose of learning and getting more confortable with routi
 ## Url's
 
 - [Course Url](https://www.udemy.com/course/curso-de-angular/)
+- [Live Server](https://pokedex-gen1-angular.vercel.app)
 
 
 
