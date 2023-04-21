@@ -1,0 +1,35 @@
+<poke-header></poke-header>
+
+<main>
+  <ng-template [ngIf]="isLoading">
+    <section class="pokemon__names">
+      <h1 class="slideInLeft">{{ pokemonInfo[0].name }}</h1>
+      <h2 class="slideInRight">{{ pokemonInfo[1].names[0].name }}</h2>
+    </section>
+
+    <section class="pokemon__status">
+      <img
+        [src]="pokemonInfo[0].sprites.other.dream_world.front_default"
+        [alt]="pokemonInfo[0].name"
+        class="slideInDown"
+      />
+    </section>
+
+    <article class="pokemon__status__statistics fadeIn">
+      <section>
+        <h3>Statistics</h3>
+        <ol>
+          <li *ngFor="let value of pokemonInfo[0].stats">
+            {{ value.stat.name }}
+
+            <strong>{{ value.base_stat }}</strong>
+          </li>
+        </ol>
+      </section>
+
+      <a [routerLink]="['']" class="btn btn__secondary">Go back</a>
+    </article>
+  </ng-template>
+
+    <img *ngIf="apiError" src="assets/error.png" alt="Information of pokemon failed">
+</main>
