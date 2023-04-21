@@ -1,27 +1,24 @@
-# Pokedex
+# Pokedex Gen 1
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+This is a small project that i've done in the segment of a course from Udemy of Angular.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Objectives
 
-## Code scaffolding
+This project had the purpose of learning and getting more confortable with routing, fetching information from an API, and displaying it using the interpolation and data/property bindings.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Url's
 
-## Running unit tests
+- [Course Url](https://www.udemy.com/course/curso-de-angular/)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## If you have any tips on how to improve please feel free to message me or connect on LinkedIn!
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<h3 align="left">Join me on Linkedin: </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/joaomatosdevelopment/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-nurcholis-112b73162" height="30" width="40" /></a>
+</p>
